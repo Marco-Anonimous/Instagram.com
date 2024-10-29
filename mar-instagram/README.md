@@ -15,6 +15,5 @@
 
 ![Login page mobile version](https://raw.githubusercontent.com/laisfrigerio/instagram-clone-login-page/master/screenshots/mobile.png)
 
-## :muscle: Inspiração
 
-Bootcamp Javascript Game Developer from Digital Innovation One
+#UPN
